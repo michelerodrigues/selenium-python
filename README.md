@@ -1,17 +1,18 @@
 # selenium-python
-Python Club examples using selenium
 
-- Create a virtual environment
--- virtualenv venv
+##Examples using selenium
 
-- Activate the virtual environment
--- source venv/bin/activate
+* Create a virtual environment
+** virtualenv venv
 
-- Install the selenium package
--- pipenv install selenium
+* Activate the virtual environment
+** source venv/bin/activate
 
-- Install the browser driver
--- To firefox at macos: brew install geckodriver
+* Install the selenium package
+** pipenv install selenium
 
-- To run the scripts using the virtualenv
--- pipenv run python file.py
+* Install the browser driver
+** To firefox at macos: brew install geckodriver
+
+* To run the scripts using the virtualenv
+** pipenv run python file.py
